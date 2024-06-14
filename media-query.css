@@ -1,0 +1,178 @@
+@media (min-width: 768px) and (max-width:1440px) {}
+
+@media (min-width: 1900px) {
+    .about-container {
+        min-height: auto;
+    }
+}
+
+@media (max-width: 992px) {
+    .perpetual_liquidity, #SimplDevTools, .aboutUs_basehaven {
+        min-height: 50vh;}
+    .toglr {
+        height: 45px;
+        color: #fff;
+    }
+
+    .iframe-top {
+        left: 0px;
+    }
+
+    .about-container {
+        min-height: auto;
+    }
+
+    .about_basehaven__wrapper {
+        flex-wrap: wrap;
+    }
+
+    .team_box {
+        flex-wrap: wrap;
+        width: 85%;
+        height: auto;
+    }
+
+    .Roadmap__wrapper {
+        flex-wrap: wrap;
+    }
+
+    .roadmap_card {
+        width: 100%;
+    }
+
+    .team-card {
+        margin-bottom: 1.25rem;
+        margin-top: 1.25rem;
+    }
+
+    .border_line {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .tabs_box .card{
+        backdrop-filter: none;
+    }
+    .cards .card {
+        width: 100%;
+        height: auto;
+        position: relative;
+        backdrop-filter: none;
+    }
+
+    .card2.bg_gradient {
+        right: 0;
+        margin-bottom: 1rem;
+    }
+
+    .card1.bg_gradient {
+        right: 0;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+
+    .main-btn.bg-white {
+        margin-bottom: 2rem;
+    }
+
+    .card3.bg_gradient {
+        right: 0;
+    }
+
+    .iframe-top {
+        left: -25px;
+    }
+
+    .team-container {
+        padding-top: 200px;
+    }
+
+    .about-team-ifram {
+        top: -47%;
+    }
+
+    .toglr {
+        height: 35px;
+    }
+
+    .navbar-brand img {
+        width: 150px;
+    }
+
+    footer div {
+        text-align: center;
+    }
+
+    .about_basehaven__wrapper {
+        flex-wrap: wrap;
+    }
+
+    .team_box {
+        flex-wrap: wrap;
+        width: 85%;
+        height: auto;
+    }
+
+    .haven-cards {
+        margin-top: 1.25rem;
+        margin-bottom: 1.25rem;
+        /* border: 1px solid; */
+        border-radius: 10px;
+        width: 90%;
+        backdrop-filter: none;
+
+    }
+
+    .team-card {
+        margin-bottom: 1.25rem;
+        margin-top: 1.25rem;
+        backdrop-filter: none;
+
+    }
+
+    .roadmaplist li,
+    .faq-bg,
+    .faq-box {
+        backdrop-filter: none;
+
+    }
+
+    .border_line {
+        display: none;
+    }
+
+    .roadmap_card {
+        width: 100%;
+    }
+
+    .company-info {
+        text-align: center;
+        width: 75%;
+        margin: 0 auto;
+    }
+
+    .social_links {
+        padding: 0 40px;
+    }
+
+    .faq-container {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+
+    .h-35 {
+        height: 35px;
+        font-size: 11px;
+    }
+
+    .content h1 {
+        font-size: 30px;
+        line-height: 1.5;
+        width: 80% !important;
+    }
+
+    .about-sec-1 {
+        padding: 20px 15px;
+    }
+}
